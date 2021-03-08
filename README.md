@@ -1,4 +1,4 @@
-# Fuh-v2.0 is Modern Theming project for HFS project.
+# Fuh-v2.0 is Modern Theming project for HFS 
 
 A modern file-sharing template for [HTTP File Server](https://www.rejetto.com/hfs/), based on the Fuh v1.0
 
